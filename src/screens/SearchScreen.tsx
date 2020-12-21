@@ -18,7 +18,7 @@ const SearchScreen = () => {
   const navigation = useNavigation();
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} testID="SearchScreen">
       <FlatList
         showsVerticalScrollIndicator={false}
         ListHeaderComponent={
