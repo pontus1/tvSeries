@@ -3,8 +3,10 @@
 ### iOS
 
 #### Requirements:
-Xcode (mac OS)
-Node version >12.x
+* Xcode and Xcode CLI
+* Cocoapods
+* Node version >12.x
+
 
 #### Run:
 Go to the root folder and run
@@ -19,8 +21,8 @@ yarn ios
 ### Android
 
 #### Requirements:
-adb (or Android Studio)
-Node version >12.x
+* Android Debug Bidge (adb) or Android Studio
+* Node version >12.x
 
 #### Run:
 Go to the root folder and run
